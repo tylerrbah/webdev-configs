@@ -1,19 +1,19 @@
 {
-    "name": "webdev-configs",
-    "version": "0.0.1",
-    "description": "Configurations to be shared across repositories.",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/tylerrbah/webdev-configs.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/tylerrbah/webdev-configs/issues"
-    },
-    "homepage": "https://github.com/tylerrbah/webdev-configs#readme"
+  "name": "webdev-configs",
+  "version": "0.0.1",
+  "description": "Configurations to be shared across repositories.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerrbah/webdev-configs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerrbah/webdev-configs/issues"
+  },
+  "homepage": "https://github.com/tylerrbah/webdev-configs#readme"
 }

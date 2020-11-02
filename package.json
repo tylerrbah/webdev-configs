@@ -1,6 +1,6 @@
 {
   "name": "webdev-configs",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Configurations to be shared across repositories.",
   "main": "index.json",
   "scripts": {
